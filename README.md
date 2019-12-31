@@ -1,0 +1,1 @@
+# Patrón de Diseño Brigde
